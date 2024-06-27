@@ -1,3 +1,4 @@
+前端用了 vite pnpm ，换了 vite 3,4,5三版本也运行不了。后端可运行
 <p align="center">
       <img src="https://img.shields.io/badge/Release-V1.8.0-green.svg" alt="Downloads">
       <img src="https://img.shields.io/badge/JDK-1.8+-green.svg" alt="Build Status">
